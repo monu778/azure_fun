@@ -1,0 +1,7 @@
+Overview of Cloud Computing 
+  1) On Demand Self-sErvice
+  2) Broad network access
+  3) Resource pooling
+  4) Rapid elasticity
+  5) Measured Service
+  
