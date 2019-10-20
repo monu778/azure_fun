@@ -1,7 +1,43 @@
-Overview of Cloud Computing 
+
+-> Overview of Cloud Computing 
   1) On Demand Self-sErvice
+          Infrastructe as Service . 
   2) Broad network access
+         It should have good internet speed
   3) Resource pooling
   4) Rapid elasticity
   5) Measured Service
+  
+->  Advantage of Cloud Computing
+  
+  1) Access to a broad range of manages services
+  2) Minimized or eliminate d capital expenditures
+  3) Lowered operational exprnses
+  4)_ usag-based billing model
+  5) improved agility
+  
+ -> Cloud Computing Models
+  
+  1) a public cloud
+  2) private cloud -> Exculsi
+  3) A hybrid cloud
+  
+ --> Types of cloud services
+    Iaas (virtualization & Iaas it is similar)
+    Paas (lots of development happrning this side)
+    saas
+    virtual
+    physical
+    
+--> Overiview of Azure
+     Deploy and operate cloud-based applications
+     Host workloafs in the cloud
+     Integrate cloud services with an on-premises infrastructure
+     Datacenter placement follows the principal of pairing
+--> Overview of Azure Services
+--> Azure management models
+
+
+    
+    
   
